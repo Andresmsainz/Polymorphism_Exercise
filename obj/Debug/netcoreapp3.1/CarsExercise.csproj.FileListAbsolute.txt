@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\bin\Debug\netcoreapp3.1\CarsExercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\bin\Debug\netcoreapp3.1\CarsExercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\bin\Debug\netcoreapp3.1\CarsExercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\bin\Debug\netcoreapp3.1\CarsExercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\bin\Debug\netcoreapp3.1\CarsExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\bin\Debug\netcoreapp3.1\CarsExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CarsExercise\obj\Debug\netcoreapp3.1\CarsExercise.genruntimeconfig.cache
